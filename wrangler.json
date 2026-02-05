@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "my-moji-doh",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "11b99316-6a80-4520-916b-13f24f4d0947",
+			"database_name": "d1-moji-doh"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
